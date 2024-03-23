@@ -1,4 +1,5 @@
-# nextjs-blog-website link : https://nextjs-blog-website-blond.vercel.app/
+# nextjs-blog-website 
+project link : https://nextjs-blog-website-blond.vercel.app/
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
